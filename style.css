@@ -13,7 +13,7 @@ button{
     box-shadow: none;
     border:none;
     margin: 1rem;
-    pointer:cursor:
+    cursor:pointer;
 }
 .container{
   height:100vh;
