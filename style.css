@@ -1,0 +1,38 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+    color:white;
+    background-color: rgb(185, 145, 127);
+    height:50px;
+    width:150px;
+    border-radius: 8px;
+    font-size: 14px;
+    box-shadow: none;
+    border:none;
+    margin: 1rem;
+}
+.container{
+  height:100vh;
+  width:100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.theme{
+  height: 100px;
+  width:450px;
+  display: flex;
+  justify-content: center;
+  align-items:end;
+}
+.dark{
+   background-color: black;
+   color:white;
+}
+.light{
+  background-color: white;
+  color:black;
+}
